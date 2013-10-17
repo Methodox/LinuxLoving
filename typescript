@@ -1,0 +1,62 @@
+Script started on 2013年10月18日 05時42分48秒
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ test
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ scrpit[K[K[K[K[K[Kscrpit[K[K[Kipt
+Script started, file is typescript
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git add scrpt
+fatal: pathspec 'scrpt' did not match any files
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git add script
+fatal: pathspec 'script' did not match any files
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ touch readme.md
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git init
+Reinitialized existing Git repository in /home/laughingman/.git/
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git add read[K[K[K[Kreadme.md
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git committ[K =m [K[K[K-m "first commit"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'laughingman@TheLaughingMan.(none)')
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git config --global user[K[K[Kser.emali[K "[K[K[Kil "mr[K[Kljcc23 @yahoo.com"
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git commit -m "first commit"
+[master (root-commit) ee1b367] first commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 readme.md
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git remote add origin https://github.c om/Methodoxh[K/IloveYou.git
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git push - [Ku origin mat[Kster
+Username for 'https://github.com': Methodox
+Password for 'https://Methodox@github.com': 
+fatal: Authentication failed
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ j[Kgit push -u origin master
+Username for 'https://github.com': Methodox x
+Password for 'https://Methodox@github.com': 
+fatal: Authentication failed
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git pus [Kh -u origin master 
+Username for 'https://github.com': Methodox
+Password for 'https://Methodox@github.com': 
+fatal: https://github.com/Methodox/IloveYou.git/info/refs?service=git-receive-pack not found: did you run git update-server-info on the server?
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ touch [K[K[K[K[K[Kgit init
+Reinitialized existing Git repository in /home/laughingman/.git/
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git add [K[K[K[K[K[K[K[Kgit c[K[K[K[K[Kgit remote add origin ha[Kttps/[K://gith[Khub.c om/Methodox/LinuxLoving[K[K[K[K[K[K[K[K[K[K[KLinuxLoving.git
+fatal: remote origin already exists.
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git remote add orit[K[Kigin https://github.c om/Methodoxh/[K[K/M[KMr[Karquise.git
+fatal: remote origin already exists.
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git remote add origin https[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit push -u origin master
+Username for 'https://github.com': Methodox
+Password for 'https://Methodox@github.com': 
+fatal: https://github.com/Methodox/IloveYou.git/info/refs?service=git-receive-pack not found: did you run git update-server-info on the server?
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ git update-server.inf[K[K[K[K-info
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ exit
+exit
+Script done, file is typescript
+]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ clear
+[H[2J]0;laughingman@TheLaughingMan: ~laughingman@TheLaughingMan:~$ exit
+exit
+
+Script done on 2013年10月18日 05時50分38秒
